@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/0e9a346a9df270779da7066cb1ff34fbf4c29810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_7d5228ad639887fc315a59023d9deff879195833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_e0b0cbdfe4426979f58794585487a5494973ef7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/92f41b2c32f1e6660c9dba6c865d37c7cee97a55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_de562d90077d3ee0ff143b449b7a75125939a101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/f6712e8d496ded62166f18d7f3ebc0aa8f0f748b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_71b486cb21fd0f9e8e9a60a8059e470f86329511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/715b4a7a591ff55ee95f474722c71563935eace4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_c9ad81511981f2a086d8b0efb31ecaf377efe2fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/2adadcd769f5516727d3833b0dc00cdb4b6e828c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_544356b6d4f02409fd90d46fbb147b8d14a99c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/78d124007d0658dc310c9e9569d20b04dab672fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_62f99e1e5739e1bb8c03c728eea06249cfa204df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/1cfa31e8310e8713e156246a0f7ca880807259ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_6ac94ac8b2b546baa47caf290da8f498e15600ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/eaeb808e4b78b9ccf0dea786b64868ac6f69af96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_b0963f85e3d948b279efdd9d2551a66ce5968150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Japo/.android/build-cache/61eab0334e6f64800ca5b4f8c1ff9821e9c4f834/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Japo/Desktop/Taller1/Android/GameControl/app/build/intermediates/pre-dexed/debug/classes_df40cd3ee58d4b7d780b7650518448c832dd3101.jar" />
+    </item>
+
+</items>
